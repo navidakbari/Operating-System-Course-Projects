@@ -1,3 +1,9 @@
 [submodule "First Project"]
 	path = tcp-udp-socket-programming
 	url = https://github.com/navidakbari123/tcp-udp-socket-programming.git
+[submodule "Second Project"]
+	path = Pipeline
+	url = https://github.com/navidakbari123/Pipeline.git
+[submodule "ThirdProject"]
+	path = MultiThread-Neural-Network
+	url = https://github.com/navidakbari123/MultiThread-Neural-Network.git
